@@ -22,3 +22,8 @@ work, that is not because we must do it, but because we can do  it!
 ### COBOL
 
 - [COBOL on Wheelchair](https://github.com/azac/cobol-on-wheelchair) - Micro web-framework for COBOL.
+
+
+### Brainfuck
+
+- [Hanoi Towers Solver](http://esoteric.sange.fi/brainfuck/bf-source/prog/hanoi.bf) - A Hanoi Towers solver in Brainfuck!
