@@ -18,3 +18,7 @@ work, that is not because we must do it, but because we can do  it!
 ### Haskell
 
 - [hs-language-php](https://github.com/jhartikainen/hs-language-php) - A PHP compiler/interpreter written in Haskell.
+
+### COBOL
+
+- [COBOL on Wheelchair](https://github.com/azac/cobol-on-wheelchair) - Micro web-framework for COBOL.
