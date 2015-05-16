@@ -27,3 +27,10 @@ work, that is not because we must do it, but because we can do  it!
 ### Brainfuck
 
 - [Hanoi Towers Solver](http://esoteric.sange.fi/brainfuck/bf-source/prog/hanoi.bf) - A Hanoi Towers solver in Brainfuck!
+- [SQL Servers](https://github.com/Coder-666/brainfuck) - Brainfuck virtual machin written in T-SQL!
+
+### BAT
+
+- [Dos on Dope](https://dod.codeplex.com/) - MVC with AspNet and BAT files
+
+
