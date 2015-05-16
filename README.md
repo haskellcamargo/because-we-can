@@ -14,6 +14,14 @@ work, that is not because we must do it, but because we can do  it!
 ### C
 
 - [Recursive For Loop](http://cboard.cprogramming.com/c-programming/110403-generalized-recursive-loop.html) - There is no notion in people's head.
+- [Recursive Macros](http://jhnet.co.uk/articles/cpp_magic) - C Preprocessor Magic
+- [Macro Tricks](https://github.com/pfultz2/Cloak/wiki/C-Preprocessor-tricks,-tips,-and-idioms) - Because we can
+- 
+
+### C++
+
+- [Brainfuck](https://github.com/knome/metabrainfuck/blob/master/bf.cpp) - Brainfuck virtual machine written in TMP (Template MetaProgramming).
+- [Church Numerals](http://kukuruku.co/hub/cpp/interpreting-when-compiling-or-an-alternative-understanding-of-lambdas-in-c-11) - Implementing Church Numerals with TMP.
 
 ### Haskell
 
@@ -27,10 +35,17 @@ work, that is not because we must do it, but because we can do  it!
 ### Brainfuck
 
 - [Hanoi Towers Solver](http://esoteric.sange.fi/brainfuck/bf-source/prog/hanoi.bf) - A Hanoi Towers solver in Brainfuck!
-- [SQL Servers](https://github.com/Coder-666/brainfuck) - Brainfuck virtual machin written in T-SQL!
 
 ### BAT
 
 - [Dos on Dope](https://dod.codeplex.com/) - MVC with AspNet and BAT files
+
+### T-SQL
+
+- [Brainfuck](https://github.com/Coder-666/brainfuck) - Brainfuck virtual machine written in T-SQL!
+
+### Assembly x86
+
+- [AsmIL](http://www.viksoe.dk/code/asmil.htm) - Why not? lets program in assembly 80386 for the Web!!!
 
 
