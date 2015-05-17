@@ -17,6 +17,7 @@ work, that is not because we must do it, but because we can do  it!
 - [Recursive For Loop](http://cboard.cprogramming.com/c-programming/110403-generalized-recursive-loop.html) - There is no notion in people's head.
 - [Recursive Macros](http://jhnet.co.uk/articles/cpp_magic) - C Preprocessor Magic
 - [Macro Tricks](https://github.com/pfultz2/Cloak/wiki/C-Preprocessor-tricks,-tips,-and-idioms) - Because we can
+- [Kore](https://kore.io/) - Fast web framework for web APIs.
 
 ### C++
 
