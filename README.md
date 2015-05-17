@@ -49,4 +49,6 @@ work, that is not because we must do it, but because we can do  it!
 
 - [AsmIL](http://www.viksoe.dk/code/asmil.htm) - Why not? lets program in assembly 80386 for the Web!!!
 
+### JavaScript
 
+- [Iodine GBA](https://github.com/taisel/IodineGBA) - A GameBoy Advance emulator written in JavaScript and HTML5. They didn't...
