@@ -24,7 +24,6 @@ work, that is not because we must do it, but because we can do  it!
 - [Brainfuck](https://github.com/knome/metabrainfuck/blob/master/bf.cpp) - Brainfuck virtual machine written in TMP (Template MetaProgramming).
 - [Church Numerals](http://kukuruku.co/hub/cpp/interpreting-when-compiling-or-an-alternative-understanding-of-lambdas-in-c-11) - Implementing Church Numerals with TMP.
 - [String Obfuscation] (https://www.blackhat.com/docs/eu-14/materials/eu-14-Andrivet-C-plus-plus11-Metaprogramming-Applied-To-software-Obfuscation-wp.pdf) - Metaprogramming applied to software obfuscation
-applied to software obfuscation
 - [Binary Obfuscation] (https://www.cisuc.uc.pt/publication/showfile?fn=1357250736_metaobfv3.pdf) - Binary code obfuscation through C++ template metaprogramming
 
 ### Haskell
