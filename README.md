@@ -9,6 +9,8 @@ work, that is not because we must do it, but because we can do  it!
 - [PhpGenerics](https://github.com/ircmaxell/PhpGenerics) - Here be dragons. WTF!?
 - [PHPPHP](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP
 - [Rawr](https://github.com/haskellcamargo/rawr) - Implements a lot of features to the PHP language
+- [ElePHPants-Love-Coffee](https://github.com/TazeTSchnitzel/ElePHPants-Love-Coffee) - Zend Engine III opcodes directly into JavaScript - Why, Andrea, why?
+- [Yolo](https://github.com/igorw/yolo) - The micro framework with swag.
 
 ![WTF](https://camo.githubusercontent.com/aa631acd95c920ad20c1ab52bbbc82c8299b8dce/687474703a2f2f692e737461636b2e696d6775722e636f6d2f4a61724a302e6a7067)
 
