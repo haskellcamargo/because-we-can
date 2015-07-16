@@ -56,3 +56,7 @@ work, that is not because we must do it, but because we can do  it!
 ### JavaScript
 
 - [Iodine GBA](https://github.com/taisel/IodineGBA) - A GameBoy Advance emulator written in JavaScript and HTML5. They didn't...
+ 
+### Pyhton
+
+- [Pyhell](https://github.com/dsvictor94/pyhell) - An importer which enables the python to import any Haskell module and use them like a regular python module.
