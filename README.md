@@ -56,7 +56,11 @@ work, that is not because we must do it, but because we can do  it!
 ### JavaScript
 
 - [Iodine GBA](https://github.com/taisel/IodineGBA) - A GameBoy Advance emulator written in JavaScript and HTML5. They didn't...
- 
+
 ### Python
 
 - [Pyhell](https://github.com/dsvictor94/pyhell) - An importer which enables the Python to import any Haskell module and use them like a regular python module.
+
+### Shell Script
+
+- [docker-fiboid](https://github.com/dgageot/docker-fiboid) - Recursive Fibonacci with Docker inside Docker inside Docker inside...
