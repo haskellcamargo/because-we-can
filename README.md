@@ -64,3 +64,4 @@ work, that is not because we must do it, but because we can do  it!
 ### Shell Script
 
 - [docker-fiboid](https://github.com/dgageot/docker-fiboid) - Recursive Fibonacci with Docker inside Docker inside Docker inside...
+- [dockercraft](https://github.com/docker/dockercraft) - A simple Minecraft Docker client, to visualize and manage Docker containers.
