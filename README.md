@@ -1,5 +1,7 @@
 # Not because we must do it, but because we can!
 
+<a href="https://app.codesponsor.io/link/osmbVLutaA7HXKYJpSN5uQYQ/haskellcamargo/because-we-can" rel="nofollow"><img src="https://app.codesponsor.io/embed/osmbVLutaA7HXKYJpSN5uQYQ/haskellcamargo/because-we-can.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
+
 A list of awesome and awkward computer science techniques and algorithms maybe created by Satan and by hidden forces
 work, that is not because we must do it, but because we can do  it!
 
