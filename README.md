@@ -5,6 +5,8 @@
 A list of awesome and awkward computer science techniques and algorithms maybe created by Satan and by hidden forces
 work, that is not because we must do it, but because we can do  it!
 
+![WTF](https://camo.githubusercontent.com/aa631acd95c920ad20c1ab52bbbc82c8299b8dce/687474703a2f2f692e737461636b2e696d6775722e636f6d2f4a61724a302e6a7067)
+
 ### Assembly x86
 
 - [AsmIL](http://www.viksoe.dk/code/asmil.htm) - Why not? lets program in assembly 80386 for the Web!!!
@@ -58,8 +60,6 @@ work, that is not because we must do it, but because we can do  it!
 - [YAY!](https://github.com/marcioAlmada/yay) - A PHP preprocessor that allows anyone to augment PHP with PHP.
 - [PHP-GUI](https://github.com/gabrielrcouto/php-gui) - Extensionless PHP Graphic User Interface library
 - [Quack](https://github.com/haskellcamargo/quack) - :baby_chick: A multi-paradigm programming language with gradual and duck typing that targets PHP and JS
-
-![WTF](https://camo.githubusercontent.com/aa631acd95c920ad20c1ab52bbbc82c8299b8dce/687474703a2f2f692e737461636b2e696d6775722e636f6d2f4a61724a302e6a7067)
 
 ### Python
 
