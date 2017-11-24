@@ -73,3 +73,6 @@ work, that is not because we must do it, but because we can do  it!
 ### T-SQL
 
 - [Brainfuck](https://github.com/Coder-666/brainfuck) - Brainfuck virtual machine written in T-SQL!
+
+### VBA
+- [webxcel](https://github.com/michaelneu/webxcel) - A REST backend built with plain VBA Microsoft Excel macros. Yes. Macros.
