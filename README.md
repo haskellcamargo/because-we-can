@@ -13,7 +13,7 @@ work, that is not because we must do it, but because we can do  it!
 
 ### BAT
 
-- [Dos on Dope](https://dod.codeplex.com/) - MVC with AspNet and BAT files
+- [Dos on Dope](https://github.com/secretGeek/dod) - MVC with AspNet and BAT files
 
 ### Brainfuck
 
