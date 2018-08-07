@@ -10,6 +10,7 @@ work, that is not because we must do it, but because we can do  it!
 ### Assembly x86
 
 - [AsmIL](http://www.viksoe.dk/code/asmil.htm) - Why not? lets program in assembly 80386 for the Web!!!
+- [MikeOS](http://mikeos.sourceforge.net/) - MikeOS is an operating system for x86 PCs, written in assembly language.
 
 ### BAT
 
