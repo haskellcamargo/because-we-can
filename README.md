@@ -76,3 +76,6 @@ work, that is not because we must do it, but because we can do  it!
 
 ### VBA
 - [webxcel](https://github.com/michaelneu/webxcel) - A REST backend built with plain VBA Microsoft Excel macros. Yes. Macros.
+
+### Electron
+- [windows95](https://github.com/felixrieseberg/windows95) - This is Windows 95, running in an Electron app. Yes, it's the full thing.
